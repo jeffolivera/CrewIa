@@ -92,4 +92,5 @@ OPENAI_API_KEY=your_api_key_here
 ## ✍️ Autor
 Jeferson Oliveira
 Desenvolvedor | Entusiasta em IA
+
 **[LinkedIn](https://www.linkedin.com/in/jeferson-oliveira-dev/)**
