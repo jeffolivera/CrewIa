@@ -35,3 +35,61 @@ Todos os testes foram feitos com foco em aprendizado prático, visando futuras a
 ├── requirements.txt     # Dependências do projeto
 └── README.md            # Este documento
 ```
+## 🚀 Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/jeffolivera/CrewIa.git
+cd Multi-agents planejamento de viagens
+```
+2. Rode o comando: criação do ambiente virtual (certifique-se de ter o python instalado)
+```bash
+- python3 -m venv .venv
+```
+
+3. Rode o comando: entrar no abiente virtual
+```bash
+- ./.venv/bin/activate
+```
+
+- No meu caso é:
+```bash
+source ./.venv/bin/activate (eu uso Ubuntu)
+```
+
+4. Verifique se dentro do ambiente virtual o pip setuptools está na lista com o comando: (certifique-se de ter o pip instalado)
+```bash
+  - pip list
+```
+
+5. Caso o setuptools esteja instalado, siga para o proximo passo. Caso não estiver instalado, rode o comando:
+```bash
+   - pip install setuptools
+```
+
+6. Rode o comando: (comando para instalar o dotenv)
+```bash
+- pip install dotenv
+```
+
+7. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+8. Configure suas credenciais (por exemplo, OpenAI API Key) em um .env:
+```bash
+OPENAI_API_KEY=your_api_key_here
+```
+9. Executar o projeto
+
+## 📌 Objetivos de Aprendizado
+
+- Entender o funcionamento básico do CrewAI
+- Criar múltiplos agentes com especializações distintas
+- Implementar ferramentas personalizadas
+- Testar fluxos colaborativos com sucesso
+
+## ✍️ Autor
+Jeferson Oliveira
+Desenvolvedor | Entusiasta em IA
+**[LinkedIn](https://www.linkedin.com/in/jeferson-oliveira-dev/)
