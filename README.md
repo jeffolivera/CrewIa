@@ -90,7 +90,8 @@ OPENAI_API_KEY=your_api_key_here
 - Testar fluxos colaborativos com sucesso
 
 ## ✍️ Autor
-Jeferson Oliveira
+**Jeferson Oliveira**
+
 Desenvolvedor | Entusiasta em IA
 
 **[LinkedIn](https://www.linkedin.com/in/jeferson-oliveira-dev/)**
