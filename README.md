@@ -44,12 +44,12 @@ cd Multi-agents planejamento de viagens
 ```
 2. Rode o comando: criação do ambiente virtual (certifique-se de ter o python instalado)
 ```bash
-- python3 -m venv .venv
+python3 -m venv .venv
 ```
 
 3. Rode o comando: entrar no abiente virtual
 ```bash
-- ./.venv/bin/activate
+./.venv/bin/activate
 ```
 
 - No meu caso é:
@@ -59,17 +59,17 @@ source ./.venv/bin/activate (eu uso Ubuntu)
 
 4. Verifique se dentro do ambiente virtual o pip setuptools está na lista com o comando: (certifique-se de ter o pip instalado)
 ```bash
-  - pip list
+pip list
 ```
 
 5. Caso o setuptools esteja instalado, siga para o proximo passo. Caso não estiver instalado, rode o comando:
 ```bash
-   - pip install setuptools
+pip install setuptools
 ```
 
 6. Rode o comando: (comando para instalar o dotenv)
 ```bash
-- pip install dotenv
+pip install dotenv
 ```
 
 7. Instale as dependências:
